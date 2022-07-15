@@ -10,3 +10,7 @@ First, I automated a web browser to visit different websites to extract data abo
 - Scrape the data using the index.html to ensure the data was properly loaded into the database.
 - Update the Web app with all of the required materials and ensure that it displays accurately.
 - Customize the Web app to provide users with a clean and updated source. 
+
+#### Add Bootstrap Components:
+- Changed the background of the website to "beige"
+- Change the header background color to "slategrey"
