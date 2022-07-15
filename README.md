@@ -14,3 +14,4 @@ First, I automated a web browser to visit different websites to extract data abo
 #### Add Bootstrap Components:
 - Changed the background of the website to "beige"
 - Change the header background color to "slategrey"
+#### <img width="2070" alt="Screen Shot 2022-07-14 at 7 53 00 PM" src="https://user-images.githubusercontent.com/104043438/179131195-c30a9bd4-8664-49e7-be7a-3724bea09724.png">
